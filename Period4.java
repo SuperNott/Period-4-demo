@@ -1,8 +1,8 @@
 
 /**
- * Write a description of class Period4 here.
- *
- * @author (your name)
+ * This is the Period 4 demo.
+ * Period 4 is a good class
+ * @Jacob
  * @version (a version number or a date)
  */
 public class Period4
